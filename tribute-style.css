@@ -1,0 +1,55 @@
+
+body {
+	background-color: rgba(112, 66, 20,0.25) ;
+	font-family: helvetica, sans-serif;
+}
+header {
+	padding: 10px;
+	text-align: center;
+	
+
+}
+#title {
+	font-weight: uppercase;
+	
+}
+
+header h2 {
+	font-size:90%;
+}
+#image {
+	display: block;
+	border-radius: 18%;
+	
+	max-width: 400px;
+	margin: auto;
+}
+img.sign {
+	width:40%;
+	display: block;
+	margin: auto;
+}
+
+#img-div{
+	padding: 15px;
+	text-align: center;
+	font-size: 19px;
+	
+}
+
+.lifetime {
+	margin: 10px 12em ;
+	font-size: 120%;
+	
+}
+li {
+	margin: 13px;
+}
+.signbox {
+	font-size: 60%;
+	text-align: center;
+}
+footer {
+	font-size: 90%;
+	margin-top: 50px;
+}
